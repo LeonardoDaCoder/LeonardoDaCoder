@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LeonardoDaCoder
-- 👀 I’m interested in learning Computer Science
-- 🌱 I’m currently learning Delphi and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leonardmcgeer@gmail.com
+- 👋 Hi, I’m @LeonardMcGeer
+- 👀 I’m interested in learning Computer Science, Data Science and Web Development
+- 🌱 I’m currently studying BSc Information Technology in Data Science
+- 📫 How to reach me mcgeerleonard@gmail.com
 
 <!---
 LeonardoDaCoder/LeonardoDaCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
